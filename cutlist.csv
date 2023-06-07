@@ -1,0 +1,13 @@
+part name,length,width,thickness
+Mattress001,2040.0,1520.0,300.0
+Left Rail,2040.0,150.0,35.0
+Right Rail,2040.0,150.0,35.0
+Front,1520.0,150.0,35.0
+Left Rail Top,2040.0,100.0,35.0
+Left Leg,300.0,100.0,100.0
+Right Leg,300.0,100.0,100.0
+Right Rail Top,2040.0,100.0,35.0
+Front Rail Top,1520.0,100.0,35.0
+HB Left Leg001,1000.0,100.0,35.0
+HB Right Leg001,1000.0,100.0,35.0
+Board001,1520.0,885.0,35.0
